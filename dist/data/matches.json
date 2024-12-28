@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1, 
+      "type": "image",
+      "src": "https://resize.indiatvnews.com/en/centered/newbucket/1200_675/2020/04/pjimage-2020-04-16t092158-1587009146.jpg",
+      "alt": "Sample Image",
+      "title": "Grungy Stamp",
+      "description": "An example of a grungy stamp vector image."
+    },
+    {
+      "id": 2,
+      "type": "video",
+      "src": "https://krsv-frontend-bucket.s3.us-west-1.amazonaws.com/videos/4b487ea3-10bd-4821-8457-a09c12070caf4b487ea3-10bd-4821-8457-a09c12070caf_goal.mp4",
+      "title": "Goal Celebration",
+      "description": "A video showcasing a thrilling goal celebration."
+    },
+    {
+      "id": 3,
+      "type": "video",
+      "src": "https://krsv-frontend-bucket.s3.us-west-1.amazonaws.com/videos/886b20ee-9256-44b5-b333-073de2636cfd886b20ee-9256-44b5-b333-073de2636cfd_goal.mp4",
+      "title": "Epic Victory",
+      "description": "An epic victory moment captured on camera."
+    },
+    {
+      "id": 4,
+      "type": "image",
+      "src": "https://www.aljazeera.com/wp-content/uploads/2022/11/2022-05-11T192329Z_1709517470_UP1EI5B1HV4AG_RTRMADP_3_SOCCER-ITALY-JUV-INT-REPORT.jpg",
+      "alt": "Sample Image",
+      "title": "Grungy Stamp",
+      "description": "An example of a grungy stamp vector image."
+    }
+  ]
+  

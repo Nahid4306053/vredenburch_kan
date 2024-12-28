@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Breaking News: Team Transfer",
+      "image": "https://via.placeholder.com/600x400?text=Team+Transfer",
+      "content": "Player X is rumored to be transferring to Team Y this season."
+    },
+    {
+      "title": "Stadium Renovation Update",
+      "image": "https://via.placeholder.com/600x400?text=Stadium+Renovation",
+      "content": "Renovations for the local stadium are set to finish next month."
+    },
+    {
+      "title": "Upcoming Match Highlights",
+      "image": "https://via.placeholder.com/600x400?text=Match+Highlights",
+      "content": "Don’t miss the big match this weekend. Here’s what to expect."
+    },
+    {
+      "title": "Fan Event Announcement",
+      "image": "https://via.placeholder.com/600x400?text=Fan+Event",
+      "content": "A special fan event will be held at the stadium next Sunday."
+    }
+  ]
+  
